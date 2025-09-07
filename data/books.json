@@ -1,0 +1,29 @@
+[
+  {
+    "isbn": "1111",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {
+      "alice": "A timeless classic.",
+      "bob": "Loved the symbolism!"
+    }
+  },
+  {
+    "isbn": "2222",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {
+      "charlie": "Powerful and emotional.",
+      "dave": "Must read for everyone."
+    }
+  },
+  {
+    "isbn": "3333",
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": {
+      "eve": "Chillingly relevant.",
+      "frank": "A masterpiece of dystopian fiction."
+    }
+  }
+]
